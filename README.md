@@ -1,9 +1,7 @@
 <h2>$ cat About_me.txt</h2>
 
   - 👋 Hi, I’m @YusnelG
-
   - My Portfolio -> https://yusnelg.netlify.app/
-  - 
   - My Twitter -> https://twitter.com/Yusnelgg
 
 <h3>Skills</h3>
